@@ -2,6 +2,8 @@
 
 This project is a simple personal introduction webpage built as my first hands-on web development project after learning the basics of HTML, CSS, and JavaScript.
 
+🔗 Live Demo: https://raybuilds.github.io/basic-web-project/
+
 ## About the Project
 The webpage introduces me and highlights my learning focus, skills, and interests. It also includes a basic JavaScript interaction to demonstrate fundamental DOM manipulation.
 
@@ -24,5 +26,7 @@ This project was created to:
 
 ## Status
 Completed.
-<br>
-Author - raybuilds(Rohit Yadav)
+
+## Author
+**raybuilds (Rohit Yadav)**  
+© 2025
